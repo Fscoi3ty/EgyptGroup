@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fadi002/Fadi002/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/EgyptGroupIsHere/EgyptGroupIsHere/raw/refs/heads/main/snake.svg" alt="Snake animation" />
 
 ###
