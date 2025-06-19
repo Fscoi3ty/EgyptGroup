@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">EgyptGroup Is Me<br><br>- ❤ I love c# and reverse engineering<br>-<br>- <br>- e<br>Cracked Tools :)</p>
+<p align="left">EgyptGroup Is Me<br><br>- ❤ I love c# and reverse engineering<br>-<br>- <br>- <br>Cracked Tools :)</p>
 
 ###
 
