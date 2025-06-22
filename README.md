@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi Welcome To My Profile👋</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">EgyptGroup Is Me<br><br>- ❤ I love c# and reverse engineering<br>-<br>- <br>- <br>Cracked Tools :)</p>
+<p align="left">#-Fscoi3ty Is My Team -- About Me<br><br>- ❤ I love c# and reverse engineering<br>-<br>- <br>- <br>Cracked Tools :)</p>
 
 ###
 
